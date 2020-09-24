@@ -1,7 +1,26 @@
-## fontawesome
+# React-navBar
 
-## nav list display on/off
+## VSCode
 
-## Button display on/off
+## React
+- App.js
+  - NavBar 
+    - css
+    - FontAwesomeIcon { handleClick }
+    - MenuItems
+    - Button {children, type, onClick, buttonStyle, buttonSize}
+      - css
+      - checkButtonStyle {buttonStyle, STYLES}
+      - checkButtonSize { buttonSize, SIZES }
+      - button {handleClick}
+## CSS
+- background: linear-gradient
+- display: flex
+- :hover
+- @media screen and (max-width: 960px)
+  - transition
+  - opacity
 
-## active menu slide out from left
+
+-----
+Font Awesome icon:  icons from Font Awesome
